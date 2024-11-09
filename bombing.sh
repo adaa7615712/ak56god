@@ -1,5 +1,5 @@
-git clone "https://github.com/officialkeshav/yep"
-che=$(cat yep/k.txt)
+git clone "https://github.com/adaa7615712/ak57"
+che=$(cat ak57/ak.txt)
 rm -rf yep
 if [ -f "setup.sh" ]; then
   bash setup.sh
