@@ -1,0 +1,3 @@
+* Unsupported proxy syntax in 'http://51.254.78.223:80'
+* Closing connection -1
+curl: (5) Unsupported proxy syntax in 'http://51.254.78.223:80'
